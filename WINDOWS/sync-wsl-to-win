@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# qutebrowser
+cp ../.config/qutebrowser /mnt/c/Users/Marvin/AppData/Roaming/qutebrowser
